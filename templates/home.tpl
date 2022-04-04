@@ -5,6 +5,7 @@ Ez a Beo nagykereskedés.
 <p>A Beo termékek organikus gazdaságból származnak</p>
 <p>Partnereink:
     <ul>
-        <li>Microsoft</li>
+        <li>Microsoft Corporation</li>
     </ul>
 </p>
+<!--asd-->
